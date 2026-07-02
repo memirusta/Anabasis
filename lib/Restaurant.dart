@@ -98,7 +98,7 @@ class _RestaurantHaritaState extends State<RestaurantHaritaState> {
     );
 
     PolylineResult result = await polylinePoints.getRouteBetweenCoordinates(
-      googleApiKey: "AIzaSyBOV7p1nI9ewoPIX1JhVj4KJw_Ho_XYWH0",
+      googleApiKey: "",
       request: request,
     );
 
