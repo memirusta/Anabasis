@@ -14,11 +14,7 @@
 <!-- Replace with your own screenshots before publishing -->
 | Home — Anabasis Route | Historical Places | Settings |
 |:---:|:---:|:---:|
-| ![Screenshot placeholder](docs/screenshots/home.png) | ![Screenshot placeholder](docs/screenshots/historical.png) | ![Screenshot placeholder](docs/screenshots/settings.png) |
 
-> Add screenshots to `docs/screenshots/` and update the paths above, or embed images directly in this section.
-
----
 
 ## Features
 
