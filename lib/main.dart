@@ -128,7 +128,7 @@ class _HomeState extends State<Home> {
   PolylinePoints polylinePoints = PolylinePoints();
 
   String googleAPIKey =
-      "AIzaSyBOV7p1nI9ewoPIX1JhVj4KJw_Ho_XYWH0"; // Replace with your API key
+      ""; // Replace with your API key
 
   Set<Marker> markers = {};
   Map<PolylineId, Polyline> polylines = {};
