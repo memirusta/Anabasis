@@ -9,12 +9,6 @@
 
 ---
 
-## Screenshots
-
-<!-- Replace with your own screenshots before publishing -->
-| Home — Anabasis Route | Historical Places | Settings |
-|:---:|:---:|:---:|
-
 
 ## Features
 
