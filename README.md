@@ -189,11 +189,3 @@ Learn more: [Maçka Municipality — Anabasis Yolu](http://www.macka.gov.tr/anab
 ## License
 
 This repository does not currently include an open-source license. All rights reserved unless otherwise stated.
-
----
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.KAL2024.anabasis">
-    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">
-  </a>
-</p>
