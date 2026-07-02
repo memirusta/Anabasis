@@ -33,7 +33,7 @@ class _OtelHaritaState extends State<OtelHaritaState> {
   GoogleMapController? mapController;
   PolylinePoints polylinePoints = PolylinePoints();
 
-  String googleAPIKey = "AIzaSyAKH6d1oamW2_tEdGbNFdUe0Jv5XBUk2FA";
+  String googleAPIKey = "";
 
   Set<Marker> markers = {};
   Map<PolylineId, Polyline> polylines = {};
@@ -98,7 +98,7 @@ class _OtelHaritaState extends State<OtelHaritaState> {
     );
 
     PolylineResult result = await polylinePoints.getRouteBetweenCoordinates(
-      googleApiKey: "AIzaSyBOV7p1nI9ewoPIX1JhVj4KJw_Ho_XYWH0",
+      googleApiKey: "",
       request: request,
     );
 
