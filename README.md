@@ -1,6 +1,5 @@
 # Anabasis
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.KAL2024.anabasis)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-2.12+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 
