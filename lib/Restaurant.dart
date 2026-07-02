@@ -33,7 +33,7 @@ class _RestaurantHaritaState extends State<RestaurantHaritaState> {
   GoogleMapController? mapController;
   PolylinePoints polylinePoints = PolylinePoints();
 
-  String googleAPIKey = "AIzaSyAKH6d1oamW2_tEdGbNFdUe0Jv5XBUk2FA";
+  String googleAPIKey = "";
 
   Set<Marker> markers = {};
   Map<PolylineId, Polyline> polylines = {};
